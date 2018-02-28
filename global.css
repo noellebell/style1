@@ -1,0 +1,16 @@
+h1, h2 {
+	color: #18b09b;
+	font-family: 'Exo', sans-serif;
+	font-weight: bolder;
+	text-align: center
+}
+body {
+	font-family: 'PT Sans', sans-serif;
+	background-color: whitesmoke
+}
+a:link {
+	color: #18b09b
+}
+a:hover {
+	color: #Ebd50d
+}
